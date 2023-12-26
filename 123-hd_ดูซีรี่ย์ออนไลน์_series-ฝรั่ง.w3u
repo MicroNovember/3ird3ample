@@ -986,116 +986,62 @@
    "name": "Goosebumps (2023)",
    "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
    "info": "HD(EN)",
-   "groups": [
+   "stations": [
     {
-     "name": "พากย์ไทย",
+     "name": "Goosebumps EP 1",
+     "info": "ซับไทย",
      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-     "stations": [
-      {
-       "name": "Goosebumps ภาค 1",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2015-คืนอัศจรรย์ขนหัวลุก.jpg",
-       "url": "https://main.77player.xyz/newplaylist/5839e424c6d15472c72c1b7d/5839e424c6d15472c72c1b7d.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 1",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/ccdd52c95cab6b0a28b3429e/ccdd52c95cab6b0a28b3429e.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 2",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/db9d7e3c366ff17c1da43583/db9d7e3c366ff17c1da43583.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 3",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/d58c10321412c0caca40a4a0/d58c10321412c0caca40a4a0.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 4",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/3d12f19facd0bc41b8c92c64/3d12f19facd0bc41b8c92c64.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 5",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/dd9305e1801b1bb68289e806/dd9305e1801b1bb68289e806.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 6",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/0f940f987e4efb094dcc376a/0f940f987e4efb094dcc376a.m3u8",
-       "referer": "https://main.77player.xyz/"
-      }
-     ]
+     "url": "https://main.77player.xyz/newplaylist/ccdd52c95cab6b0a28b3429e/ccdd52c95cab6b0a28b3429e.m3u8",
+     "referer": "https://main.77player.xyz/"
     },
     {
-     "name": "ซับไทย",
+     "name": "Goosebumps ภาค 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2015-คืนอัศจรรย์ขนหัวลุก.jpg",
+     "url": "https://main.77player.xyz/newplaylist/5839e424c6d15472c72c1b7d/5839e424c6d15472c72c1b7d.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Goosebumps ภาค 1",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2015-คืนอัศจรรย์ขนหัวลุก.jpg",
+     "url": "https://main.77player.xyz/newplaylist/78bbf09d4fb258eb498395f6/78bbf09d4fb258eb498395f6.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Goosebumps EP 2",
+     "info": "ซับไทย",
      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-     "stations": [
-      {
-       "name": "Goosebumps ภาค 1",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2015-คืนอัศจรรย์ขนหัวลุก.jpg",
-       "url": "https://main.77player.xyz/newplaylist/78bbf09d4fb258eb498395f6/78bbf09d4fb258eb498395f6.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 1",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/ccdd52c95cab6b0a28b3429e/ccdd52c95cab6b0a28b3429e.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 2",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/db9d7e3c366ff17c1da43583/db9d7e3c366ff17c1da43583.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 3",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/d58c10321412c0caca40a4a0/d58c10321412c0caca40a4a0.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 4",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/3d12f19facd0bc41b8c92c64/3d12f19facd0bc41b8c92c64.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 5",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/dd9305e1801b1bb68289e806/dd9305e1801b1bb68289e806.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "Goosebumps EP 6",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
-       "url": "https://main.77player.xyz/newplaylist/0f940f987e4efb094dcc376a/0f940f987e4efb094dcc376a.m3u8",
-       "referer": "https://main.77player.xyz/"
-      }
-     ]
+     "url": "https://main.77player.xyz/newplaylist/db9d7e3c366ff17c1da43583/db9d7e3c366ff17c1da43583.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Goosebumps EP 3",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d58c10321412c0caca40a4a0/d58c10321412c0caca40a4a0.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Goosebumps EP 4",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
+     "url": "https://main.77player.xyz/newplaylist/3d12f19facd0bc41b8c92c64/3d12f19facd0bc41b8c92c64.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Goosebumps EP 5",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
+     "url": "https://main.77player.xyz/newplaylist/dd9305e1801b1bb68289e806/dd9305e1801b1bb68289e806.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Goosebumps EP 6",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2023-ซับไทย.jpg",
+     "url": "https://main.77player.xyz/newplaylist/0f940f987e4efb094dcc376a/0f940f987e4efb094dcc376a.m3u8",
+     "referer": "https://main.77player.xyz/"
     }
    ]
   },

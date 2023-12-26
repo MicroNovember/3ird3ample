@@ -4,228 +4,361 @@
  "image": "https://i.pinimg.com/originals/e8/02/ef/e802ef8084aea1ce98c9f36d6ac7cab9.gif",
  "groups": [
   {
-   "name": "Twinkling Watermelon (2023)",
-   "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-   "info": "HD(TH/EN พากย์ไทยตอนที่ 1-12)",
+   "name": "Tell Me That You Love Me (2023)",
+   "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+   "info": "HD(EN)",
+   "stations": [
+    {
+     "name": "Tell Me That You Love Me EP 1",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c303d424eaa3996c0f10fb02/c303d424eaa3996c0f10fb02.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Tell Me That You Love Me EP 2",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+     "url": "https://main.77player.xyz/newplaylist/02f9b0213a25b9da451bb321/02f9b0213a25b9da451bb321.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Tell Me That You Love Me EP 3",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7a026830a254e759aa52dbc1/7a026830a254e759aa52dbc1.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Tell Me That You Love Me EP 4",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+     "url": "https://main.77player.xyz/newplaylist/f8763aa8a9916fa29830319a/f8763aa8a9916fa29830319a.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Tell Me That You Love Me EP 5",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+     "url": "https://main.77player.xyz/newplaylist/3d15922490507241d653d1db/3d15922490507241d653d1db.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Tell Me That You Love Me EP 6",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+     "url": "https://main.77player.xyz/newplaylist/90063e4e0b1ad46622569c40/90063e4e0b1ad46622569c40.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Tell Me That You Love Me EP 7",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9295bbaefae81091014f5938/9295bbaefae81091014f5938.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Tell Me That You Love Me EP 8",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+     "url": "https://main.77player.xyz/newplaylist/840d3c4d238cfb809bd2e9e7/840d3c4d238cfb809bd2e9e7.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Tell Me That You Love Me EP 9",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
+     "url": "https://main.77player.xyz/newplaylist/7520255efbd84b4b5ce076d4/7520255efbd84b4b5ce076d4.m3u8",
+     "referer": "https://main.77player.xyz/"
+    }
+   ]
+  },
+  {
+   "name": "The Matchmakers (2023)",
+   "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+   "info": "HD(EN)",
+   "stations": [
+    {
+     "name": "The Matchmakers EP 1",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/318e7c8359db60658739cb59/318e7c8359db60658739cb59.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 2",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/270def8b369e10c4ad09c62a/270def8b369e10c4ad09c62a.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 3",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/ceea4740d5021b1028705676/ceea4740d5021b1028705676.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 4",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/da4fd5723d8018a4c781360f/da4fd5723d8018a4c781360f.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 5",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/bc0884f3b6bbc6599bf72251/bc0884f3b6bbc6599bf72251.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 6",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b51028c386e4881b9b4a1d33/b51028c386e4881b9b4a1d33.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 7",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b55a955d564fd851da2514cc/b55a955d564fd851da2514cc.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 8",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/b4c140779d4bbf1c190fdb9b/b4c140779d4bbf1c190fdb9b.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 9",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/d3d9a5deb11df1ded59718dc/d3d9a5deb11df1ded59718dc.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 10",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/31783596a9228c486bb294a7/31783596a9228c486bb294a7.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 11",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4477a509834d91fec0213d43/4477a509834d91fec0213d43.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 12",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/4477a509834d91fec0213d43/4477a509834d91fec0213d43.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 13",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/6329180f3f5b435bc7b4319f/6329180f3f5b435bc7b4319f.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 14",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/c38115b2f31ccb8b6071936a/c38115b2f31ccb8b6071936a.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 15",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/fd98de1242952385ecf6ce8f/fd98de1242952385ecf6ce8f.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "The Matchmakers EP 16",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
+     "url": "https://main.77player.xyz/newplaylist/25458798ecab6384606c9c1f/25458798ecab6384606c9c1f.m3u8",
+     "referer": "https://main.77player.xyz/"
+    }
+   ]
+  },
+  {
+   "name": "A Good Day To Be A Dog (2023)",
+   "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+   "info": "HD(TH/EN พากย์ไทยตอนที่ 1-7)",
    "groups": [
     {
      "name": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
      "stations": [
       {
-       "name": "Twinkling Watermelon EP 1",
+       "name": "A Good Day To Be A Dog EP 1",
        "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/a1d2a75dfaae6bff83d43c56/a1d2a75dfaae6bff83d43c56.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 2",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/50959a1693659510711fc769/50959a1693659510711fc769.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 3",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/8029cc376399e8cae67b7204/8029cc376399e8cae67b7204.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 4",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/fa845aae3890405c4780c7c1/fa845aae3890405c4780c7c1.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 5",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/76e3ba960cd91ef0e64a242a/76e3ba960cd91ef0e64a242a.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 6",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/0d4098958171d925663e4428/0d4098958171d925663e4428.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 7",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/bfe2bccd87ba2e5f4e27cd4b/bfe2bccd87ba2e5f4e27cd4b.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 8",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/d27d52435dcd3b96bd3093f2/d27d52435dcd3b96bd3093f2.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 9",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/f6671afce7d37a8d36eb3b33/f6671afce7d37a8d36eb3b33.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 10",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/68c7d1378a9e1133f2516f3c/68c7d1378a9e1133f2516f3c.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 13",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/9171ea177abbbefe26a78e0a/9171ea177abbbefe26a78e0a.m3u8",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/64c6fea6759178dbfd858e4d/64c6fea6759178dbfd858e4d.m3u8",
        "referer": "https://main.77player.xyz/"
       },
       {
-       "name": "Twinkling Watermelon EP 14",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/735a7c9fff84a274d3ce44d6/735a7c9fff84a274d3ce44d6.m3u8",
+       "name": "A Good Day To Be A Dog EP 2",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/1469d65f65bba15ae8c0730e/1469d65f65bba15ae8c0730e.m3u8",
        "referer": "https://main.77player.xyz/"
       },
       {
-       "name": "Twinkling Watermelon EP 15",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/78d231d9cc34ad631e5721dd/78d231d9cc34ad631e5721dd.m3u8",
+       "name": "A Good Day To Be A Dog EP 3",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/7e0f8cd5e33863569264b4c9/7e0f8cd5e33863569264b4c9.m3u8",
        "referer": "https://main.77player.xyz/"
       },
       {
-       "name": "Twinkling Watermelon EP 16",
+       "name": "A Good Day To Be A Dog EP 4",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/8bb98116c1d6766cefbba19c/8bb98116c1d6766cefbba19c.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 5",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/faf824b119ca69dc7135a8d0/faf824b119ca69dc7135a8d0.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 6",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/1edd8199e74f9f6a37d3285f/1edd8199e74f9f6a37d3285f.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 7",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/d73d42e656e44bd9247ffdc2/d73d42e656e44bd9247ffdc2.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 8",
        "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/35b21dd6e714ac2ddf2d55c6/35b21dd6e714ac2ddf2d55c6.m3u8",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/68035c04003aa8b9cdd0d327/68035c04003aa8b9cdd0d327.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 9",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/79ff4b25ac3fffce69c33b5a/79ff4b25ac3fffce69c33b5a.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 10",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/543f7ca5ab5822bbe84667b5/543f7ca5ab5822bbe84667b5.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 11",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/bd524b5528b97d4daaad40f6/bd524b5528b97d4daaad40f6.m3u8",
        "referer": "https://main.77player.xyz/"
       }
      ]
     },
     {
      "name": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
      "stations": [
       {
-       "name": "Twinkling Watermelon EP 1",
+       "name": "A Good Day To Be A Dog EP 1",
        "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/5e6a797ec4d3da47253bf8af/5e6a797ec4d3da47253bf8af.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 2",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/6de09ed26fc1f804f1fc2c0f/6de09ed26fc1f804f1fc2c0f.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 3",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/a970e9aaca0964ba431a8932/a970e9aaca0964ba431a8932.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 4",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/131d0501136727a8bf3b01e0/131d0501136727a8bf3b01e0.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 5",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/07b4fc69f77ec51ef0d272ea/07b4fc69f77ec51ef0d272ea.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 6",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/c5fb2526126983687082084c/c5fb2526126983687082084c.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 7",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/64323c12c7c6b3d5dddf3e82/64323c12c7c6b3d5dddf3e82.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 8",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/dea8b0dc7bda2f521476fe01/dea8b0dc7bda2f521476fe01.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 9",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/0e3c93b6439a7635f561c6b8/0e3c93b6439a7635f561c6b8.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 10",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/0f88b2c52827f89bd380e2dc/0f88b2c52827f89bd380e2dc.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 11",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/90db3009a802f326f48fd44e/90db3009a802f326f48fd44e.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 12",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/9a7751392af4bf720aa66640/9a7751392af4bf720aa66640.m3u8",
-       "referer": "https://www.123-hd.com/"
-      },
-      {
-       "name": "Twinkling Watermelon EP 13",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/9171ea177abbbefe26a78e0a/9171ea177abbbefe26a78e0a.m3u8",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/d7cb2e12c6147cfc94308e3f/d7cb2e12c6147cfc94308e3f.m3u8",
        "referer": "https://main.77player.xyz/"
       },
       {
-       "name": "Twinkling Watermelon EP 14",
+       "name": "A Good Day To Be A Dog EP 2",
        "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/735a7c9fff84a274d3ce44d6/735a7c9fff84a274d3ce44d6.m3u8",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/1115c70806219e2f07c04bb7/1115c70806219e2f07c04bb7.m3u8",
        "referer": "https://main.77player.xyz/"
       },
       {
-       "name": "Twinkling Watermelon EP 15",
+       "name": "A Good Day To Be A Dog EP 3",
        "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/78d231d9cc34ad631e5721dd/78d231d9cc34ad631e5721dd.m3u8",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/77c58f53ea45a37e672e5fef/77c58f53ea45a37e672e5fef.m3u8",
        "referer": "https://main.77player.xyz/"
       },
       {
-       "name": "Twinkling Watermelon EP 16",
+       "name": "A Good Day To Be A Dog EP 4",
        "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
-       "url": "https://main.77player.xyz/newplaylist/35b21dd6e714ac2ddf2d55c6/35b21dd6e714ac2ddf2d55c6.m3u8",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/67086c7981f250986be0c896/67086c7981f250986be0c896.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 5",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/47a560c39a49808373414be5/47a560c39a49808373414be5.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 6",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/860c0bebeac19fcb17d6f377/860c0bebeac19fcb17d6f377.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 7",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/f9f48157c3995b266782646b/f9f48157c3995b266782646b.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 8",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/68035c04003aa8b9cdd0d327/68035c04003aa8b9cdd0d327.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 9",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/79ff4b25ac3fffce69c33b5a/79ff4b25ac3fffce69c33b5a.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 10",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/543f7ca5ab5822bbe84667b5/543f7ca5ab5822bbe84667b5.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "A Good Day To Be A Dog EP 11",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
+       "url": "https://main.77player.xyz/newplaylist/bd524b5528b97d4daaad40f6/bd524b5528b97d4daaad40f6.m3u8",
        "referer": "https://main.77player.xyz/"
       }
      ]
@@ -285,6 +418,305 @@
      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Welcome-to-Samdalri.jpg",
      "url": "https://main.77player.xyz/newplaylist/ad7a0c9d24bf6d64101963f1/ad7a0c9d24bf6d64101963f1.m3u8",
      "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Welcome to Samdalri EP 8",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Welcome-to-Samdalri.jpg",
+     "url": "https://main.77player.xyz/newplaylist/84a01fe2c3043a39608ee9d3/84a01fe2c3043a39608ee9d3.m3u8",
+     "referer": "https://main.77player.xyz/"
+    }
+   ]
+  },
+  {
+   "name": "Maestra Strings of Truth (2023)",
+   "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
+   "info": "HD(EN)",
+   "stations": [
+    {
+     "name": "Maestra Strings of Truth EP 1",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
+     "url": "https://main.77player.xyz/newplaylist/97f372fce1e4b6f0d83e3639/97f372fce1e4b6f0d83e3639.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Maestra Strings of Truth EP 2",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
+     "url": "https://main.77player.xyz/newplaylist/2c331284b8c1a9bedc22094c/2c331284b8c1a9bedc22094c.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Maestra Strings of Truth EP 3",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
+     "url": "https://main.77player.xyz/newplaylist/3ce9366119637d79beac1807/3ce9366119637d79beac1807.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Maestra Strings of Truth EP 4",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
+     "url": "https://main.77player.xyz/newplaylist/600b2b091bc775c2788c9127/600b2b091bc775c2788c9127.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Maestra Strings of Truth EP 5",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
+     "url": "https://main.77player.xyz/newplaylist/515297688990e928f2c9d1d9/515297688990e928f2c9d1d9.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Maestra Strings of Truth EP 6",
+     "info": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
+     "url": "https://main.77player.xyz/newplaylist/42c431235605a243c09cee23/42c431235605a243c09cee23.m3u8",
+     "referer": "https://main.77player.xyz/"
+    }
+   ]
+  },
+  {
+   "name": "Twinkling Watermelon (2023)",
+   "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+   "info": "HD(TH/EN พากย์ไทยตอนที่ 1-12)",
+   "groups": [
+    {
+     "name": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+     "stations": [
+      {
+       "name": "Twinkling Watermelon EP 1",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/a1d2a75dfaae6bff83d43c56/a1d2a75dfaae6bff83d43c56.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 2",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/50959a1693659510711fc769/50959a1693659510711fc769.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 3",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/8029cc376399e8cae67b7204/8029cc376399e8cae67b7204.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 4",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/fa845aae3890405c4780c7c1/fa845aae3890405c4780c7c1.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 5",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/76e3ba960cd91ef0e64a242a/76e3ba960cd91ef0e64a242a.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 6",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/0d4098958171d925663e4428/0d4098958171d925663e4428.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 7",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/bfe2bccd87ba2e5f4e27cd4b/bfe2bccd87ba2e5f4e27cd4b.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 8",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/d27d52435dcd3b96bd3093f2/d27d52435dcd3b96bd3093f2.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 9",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/f6671afce7d37a8d36eb3b33/f6671afce7d37a8d36eb3b33.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 10",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/68c7d1378a9e1133f2516f3c/68c7d1378a9e1133f2516f3c.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 11",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/59037ee258329245bd504d3d/59037ee258329245bd504d3d.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 12",
+       "info": "พากย์ไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/755be7f6d05b0e01bc6477c4/755be7f6d05b0e01bc6477c4.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 13",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/9171ea177abbbefe26a78e0a/9171ea177abbbefe26a78e0a.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 14",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/735a7c9fff84a274d3ce44d6/735a7c9fff84a274d3ce44d6.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 15",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/78d231d9cc34ad631e5721dd/78d231d9cc34ad631e5721dd.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 16",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/35b21dd6e714ac2ddf2d55c6/35b21dd6e714ac2ddf2d55c6.m3u8",
+       "referer": "https://main.77player.xyz/"
+      }
+     ]
+    },
+    {
+     "name": "ซับไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+     "stations": [
+      {
+       "name": "Twinkling Watermelon EP 1",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/5e6a797ec4d3da47253bf8af/5e6a797ec4d3da47253bf8af.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 2",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/6de09ed26fc1f804f1fc2c0f/6de09ed26fc1f804f1fc2c0f.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 3",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/a970e9aaca0964ba431a8932/a970e9aaca0964ba431a8932.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 4",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/131d0501136727a8bf3b01e0/131d0501136727a8bf3b01e0.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 5",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/07b4fc69f77ec51ef0d272ea/07b4fc69f77ec51ef0d272ea.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 6",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/c5fb2526126983687082084c/c5fb2526126983687082084c.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 7",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/64323c12c7c6b3d5dddf3e82/64323c12c7c6b3d5dddf3e82.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 8",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/dea8b0dc7bda2f521476fe01/dea8b0dc7bda2f521476fe01.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 9",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/0e3c93b6439a7635f561c6b8/0e3c93b6439a7635f561c6b8.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 10",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/0f88b2c52827f89bd380e2dc/0f88b2c52827f89bd380e2dc.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 11",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/90db3009a802f326f48fd44e/90db3009a802f326f48fd44e.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 12",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/9a7751392af4bf720aa66640/9a7751392af4bf720aa66640.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 13",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/9171ea177abbbefe26a78e0a/9171ea177abbbefe26a78e0a.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 14",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/735a7c9fff84a274d3ce44d6/735a7c9fff84a274d3ce44d6.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 15",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/78d231d9cc34ad631e5721dd/78d231d9cc34ad631e5721dd.m3u8",
+       "referer": "https://main.77player.xyz/"
+      },
+      {
+       "name": "Twinkling Watermelon EP 16",
+       "info": "ซับไทย",
+       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Twinkling-Watermelon.jpg",
+       "url": "https://main.77player.xyz/newplaylist/35b21dd6e714ac2ddf2d55c6/35b21dd6e714ac2ddf2d55c6.m3u8",
+       "referer": "https://main.77player.xyz/"
+      }
+     ]
     }
    ]
   },
@@ -438,48 +870,6 @@
      "info": "ซับไทย",
      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/My-Demon-2023-ปีศาจของฉัน.jpg",
      "url": "https://main.77player.xyz/newplaylist/6f1e08535d93056b4ed3e382/6f1e08535d93056b4ed3e382.m3u8",
-     "referer": "https://main.77player.xyz/"
-    }
-   ]
-  },
-  {
-   "name": "Maestra Strings of Truth (2023)",
-   "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
-   "info": "HD(EN)",
-   "stations": [
-    {
-     "name": "Maestra Strings of Truth EP 1",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
-     "url": "https://main.77player.xyz/newplaylist/97f372fce1e4b6f0d83e3639/97f372fce1e4b6f0d83e3639.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Maestra Strings of Truth EP 2",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
-     "url": "https://main.77player.xyz/newplaylist/2c331284b8c1a9bedc22094c/2c331284b8c1a9bedc22094c.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Maestra Strings of Truth EP 3",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
-     "url": "https://main.77player.xyz/newplaylist/3ce9366119637d79beac1807/3ce9366119637d79beac1807.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Maestra Strings of Truth EP 4",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
-     "url": "https://main.77player.xyz/newplaylist/600b2b091bc775c2788c9127/600b2b091bc775c2788c9127.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Maestra Strings of Truth EP 5",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth.jpg",
-     "url": "https://main.77player.xyz/newplaylist/515297688990e928f2c9d1d9/515297688990e928f2c9d1d9.m3u8",
      "referer": "https://main.77player.xyz/"
     }
    ]
@@ -1088,179 +1478,6 @@
    ]
   },
   {
-   "name": "A Good Day To Be A Dog (2023)",
-   "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-   "info": "HD(TH/EN พากย์ไทยตอนที่ 1-6)",
-   "groups": [
-    {
-     "name": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-     "stations": [
-      {
-       "name": "A Good Day To Be A Dog EP 1",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/64c6fea6759178dbfd858e4d/64c6fea6759178dbfd858e4d.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 2",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/1469d65f65bba15ae8c0730e/1469d65f65bba15ae8c0730e.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 3",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/7e0f8cd5e33863569264b4c9/7e0f8cd5e33863569264b4c9.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 4",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/8bb98116c1d6766cefbba19c/8bb98116c1d6766cefbba19c.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 5",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/faf824b119ca69dc7135a8d0/faf824b119ca69dc7135a8d0.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 6",
-       "info": "พากย์ไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/1edd8199e74f9f6a37d3285f/1edd8199e74f9f6a37d3285f.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 7",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/f9f48157c3995b266782646b/f9f48157c3995b266782646b.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 8",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/68035c04003aa8b9cdd0d327/68035c04003aa8b9cdd0d327.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 9",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/79ff4b25ac3fffce69c33b5a/79ff4b25ac3fffce69c33b5a.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 10",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/543f7ca5ab5822bbe84667b5/543f7ca5ab5822bbe84667b5.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 11",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/bd524b5528b97d4daaad40f6/bd524b5528b97d4daaad40f6.m3u8",
-       "referer": "https://main.77player.xyz/"
-      }
-     ]
-    },
-    {
-     "name": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-     "stations": [
-      {
-       "name": "A Good Day To Be A Dog EP 1",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/d7cb2e12c6147cfc94308e3f/d7cb2e12c6147cfc94308e3f.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 2",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/1115c70806219e2f07c04bb7/1115c70806219e2f07c04bb7.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 3",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/77c58f53ea45a37e672e5fef/77c58f53ea45a37e672e5fef.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 4",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/67086c7981f250986be0c896/67086c7981f250986be0c896.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 5",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/47a560c39a49808373414be5/47a560c39a49808373414be5.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 6",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/860c0bebeac19fcb17d6f377/860c0bebeac19fcb17d6f377.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 7",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/f9f48157c3995b266782646b/f9f48157c3995b266782646b.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 8",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/68035c04003aa8b9cdd0d327/68035c04003aa8b9cdd0d327.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 9",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/79ff4b25ac3fffce69c33b5a/79ff4b25ac3fffce69c33b5a.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 10",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/543f7ca5ab5822bbe84667b5/543f7ca5ab5822bbe84667b5.m3u8",
-       "referer": "https://main.77player.xyz/"
-      },
-      {
-       "name": "A Good Day To Be A Dog EP 11",
-       "info": "ซับไทย",
-       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/A-Good-Day-To-Be-A-Dog-2023-1.jpg",
-       "url": "https://main.77player.xyz/newplaylist/bd524b5528b97d4daaad40f6/bd524b5528b97d4daaad40f6.m3u8",
-       "referer": "https://main.77player.xyz/"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "name": "Soundtrack 2 (2023)",
    "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Soundtrack2.jpg",
    "info": "HD(EN)",
@@ -1381,181 +1598,6 @@
        "referer": "https://main.77player.xyz/"
       }
      ]
-    }
-   ]
-  },
-  {
-   "name": "The Matchmakers (2023)",
-   "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-   "info": "HD(EN)",
-   "stations": [
-    {
-     "name": "The Matchmakers EP 1",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/318e7c8359db60658739cb59/318e7c8359db60658739cb59.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 2",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/270def8b369e10c4ad09c62a/270def8b369e10c4ad09c62a.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 3",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/ceea4740d5021b1028705676/ceea4740d5021b1028705676.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 4",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/da4fd5723d8018a4c781360f/da4fd5723d8018a4c781360f.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 5",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/bc0884f3b6bbc6599bf72251/bc0884f3b6bbc6599bf72251.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 6",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/b51028c386e4881b9b4a1d33/b51028c386e4881b9b4a1d33.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 7",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/b55a955d564fd851da2514cc/b55a955d564fd851da2514cc.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 8",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/b4c140779d4bbf1c190fdb9b/b4c140779d4bbf1c190fdb9b.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 9",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/d3d9a5deb11df1ded59718dc/d3d9a5deb11df1ded59718dc.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 10",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/31783596a9228c486bb294a7/31783596a9228c486bb294a7.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 11",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/4477a509834d91fec0213d43/4477a509834d91fec0213d43.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 12",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/4477a509834d91fec0213d43/4477a509834d91fec0213d43.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 13",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/6329180f3f5b435bc7b4319f/6329180f3f5b435bc7b4319f.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 14",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/c38115b2f31ccb8b6071936a/c38115b2f31ccb8b6071936a.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "The Matchmakers EP 15",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Matchmakers.jpg",
-     "url": "https://main.77player.xyz/newplaylist/fd98de1242952385ecf6ce8f/fd98de1242952385ecf6ce8f.m3u8",
-     "referer": "https://main.77player.xyz/"
-    }
-   ]
-  },
-  {
-   "name": "Tell Me That You Love Me (2023)",
-   "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
-   "info": "HD(EN)",
-   "stations": [
-    {
-     "name": "Tell Me That You Love Me EP 1",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
-     "url": "https://main.77player.xyz/newplaylist/c303d424eaa3996c0f10fb02/c303d424eaa3996c0f10fb02.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Tell Me That You Love Me EP 2",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
-     "url": "https://main.77player.xyz/newplaylist/02f9b0213a25b9da451bb321/02f9b0213a25b9da451bb321.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Tell Me That You Love Me EP 3",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
-     "url": "https://main.77player.xyz/newplaylist/7a026830a254e759aa52dbc1/7a026830a254e759aa52dbc1.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Tell Me That You Love Me EP 4",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
-     "url": "https://main.77player.xyz/newplaylist/f8763aa8a9916fa29830319a/f8763aa8a9916fa29830319a.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Tell Me That You Love Me EP 5",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
-     "url": "https://main.77player.xyz/newplaylist/3d15922490507241d653d1db/3d15922490507241d653d1db.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Tell Me That You Love Me EP 6",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
-     "url": "https://main.77player.xyz/newplaylist/90063e4e0b1ad46622569c40/90063e4e0b1ad46622569c40.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Tell Me That You Love Me EP 7",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
-     "url": "https://main.77player.xyz/newplaylist/9295bbaefae81091014f5938/9295bbaefae81091014f5938.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
-    {
-     "name": "Tell Me That You Love Me EP 8",
-     "info": "ซับไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me.jpg",
-     "url": "https://main.77player.xyz/newplaylist/840d3c4d238cfb809bd2e9e7/840d3c4d238cfb809bd2e9e7.m3u8",
-     "referer": "https://main.77player.xyz/"
     }
    ]
   },
