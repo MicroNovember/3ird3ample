@@ -1,6 +1,6 @@
 {
  "name": "ซีรี่ย์ไทย",
-  "author": "update : 20231226-1618",
+ "author": "update : 27.12.2023 - 08:30",
  "image": "https://cms-assets.tutsplus.com/cdn-cgi/image/width=360/uploads/users/1112/posts/25209/final_image/animate-bird-slide-25.gif",
  "groups": [
   {
@@ -27,6 +27,13 @@
      "info": "พากย์ไทย",
      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
      "url": "https://main.77player.xyz/newplaylist/33b49c3c7efd1a57ef7d90ea/33b49c3c7efd1a57ef7d90ea.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Find Yourself EP 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+     "url": "https://main.77player.xyz/newplaylist/91b84beecf000c830e99627b/91b84beecf000c830e99627b.m3u8",
      "referer": "https://main.77player.xyz/"
     }
    ]
@@ -167,6 +174,13 @@
      "info": "พากย์ไทย",
      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-ชะนีปีชง.jpg",
      "url": "https://main.77player.xyz/newplaylist/a7ad0b45402b0295e53027d7/a7ad0b45402b0295e53027d7.m3u8",
+     "referer": "https://main.77player.xyz/"
+    },
+    {
+     "name": "Happy Bad Year EP 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-ชะนีปีชง.jpg",
+     "url": "https://main.77player.xyz/newplaylist/9d1d3bf38356dbff1ae925e2/9d1d3bf38356dbff1ae925e2.m3u8",
      "referer": "https://main.77player.xyz/"
     }
    ]
@@ -1345,13 +1359,6 @@
    "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Colorful-Melody-2023-ทำนองรัก-จากปลายพู่กัน.jpg",
    "info": "HD(TH)",
    "stations": [
-    {
-     "name": "Colorful Melody EP 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Colorful-Melody-2023-ทำนองรัก-จากปลายพู่กัน.jpg",
-     "url": "https://main.77player.xyz/newplaylist/d399a9bfde5a4b51c9f105f5/d399a9bfde5a4b51c9f105f5.m3u8",
-     "referer": "https://main.77player.xyz/"
-    },
     {
      "name": "Colorful Melody EP 2",
      "info": "พากย์ไทย",
